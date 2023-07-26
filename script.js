@@ -1,1 +1,5 @@
-//your JS code here. If required.
+//your JS code
+let Ans = document.getElementById("level");
+
+
+ alert(`The level of the element is:${Ans}`);
